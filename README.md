@@ -9,3 +9,4 @@
 |level(1~5)|List|Date|point|detail|
 |-----|----|-----|------|----|
 |*|1 赋值运算符函数|2017.04.06|operator =||
+|*|26 ComplexListCopy|2017.07.16|gen list ==> change list(sibling) ==> copy list(3 steps)|
